@@ -1,0 +1,16 @@
+class, train, test
+screw ,320,160
+pill ,267,167
+capsule ,219,132
+carpet ,280,117
+grid ,264,78
+tile ,230,117
+wood ,247,79
+zipper ,240,151
+cable ,224,150
+toothbrush ,60 ,42
+transistor ,213,100
+metal_hut ,220,115
+bottle ,209,83
+hazelnut ,391,110
+leather ,245,124
